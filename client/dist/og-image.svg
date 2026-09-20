@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Shashank Singh portfolio preview">
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#171717"/>
+    </linearGradient>
+    <linearGradient id="red" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff4d5d"/>
+      <stop offset="100%" stop-color="#b40026"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1000" cy="120" r="180" fill="#ff4d5d" opacity="0.14"/>
+  <circle cx="200" cy="520" r="220" fill="#ff4d5d" opacity="0.08"/>
+  <path d="M180 440L410 160H560L460 320H700L430 440Z" fill="url(#red)" opacity="0.94"/>
+  <text x="120" y="520" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" fill="#f2f2f2" letter-spacing="8">SHASHANK SINGH</text>
+  <text x="120" y="580" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="500" fill="#ff4d5d" letter-spacing="10">FULL-STACK DEVELOPER</text>
+</svg>
